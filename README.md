@@ -2,7 +2,7 @@
 ### 反编译简书app滑动效果sticky粘性头布局的实现CoordinatorLayout+behavior
 
 * gif效果图：
-![](http://upload-images.jianshu.io/upload_images/1419306-b767caada72f9c28.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
+![](http://upload-images.jianshu.io/upload_images/1419306-b2a34dc793e1b14e.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
  
 
 * 简书文章地址：http://www.jianshu.com/p/698bf9a60e65
