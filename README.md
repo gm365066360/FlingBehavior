@@ -4,7 +4,7 @@
 * 小红书效果：
 ![](http://upload-images.jianshu.io/upload_images/1419306-35085698a029f636.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
 
-* gif效果图：
+* Demo效果图：
 ![](http://upload-images.jianshu.io/upload_images/1419306-b2a34dc793e1b14e.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
  
 
