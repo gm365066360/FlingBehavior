@@ -12,5 +12,5 @@
 
 * apk下载地址：http://fir.im/zk9g
 
-![](http://upload-images.jianshu.io/upload_images/1419306-10c66581e101dd7c.GIF?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
+![](http://upload-images.jianshu.io/upload_images/1419306-1eb0a614bab27724.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
 
