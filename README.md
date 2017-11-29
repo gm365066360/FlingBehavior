@@ -1,5 +1,8 @@
 # FlingBehavior
-### 反编译简书app滑动效果sticky粘性头布局的实现CoordinatorLayout+behavior
+### 反编译简书app和小红书app滑动效果sticky粘性头布局的实现CoordinatorLayout+behavior
+
+* 小红书效果：
+![](http://upload-images.jianshu.io/upload_images/1419306-35085698a029f636.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
 
 * gif效果图：
 ![](http://upload-images.jianshu.io/upload_images/1419306-b2a34dc793e1b14e.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
@@ -9,4 +12,5 @@
 
 * apk下载地址：http://fir.im/zk9g
 
-###  够哥们意思，给点个赞！
+![](http://upload-images.jianshu.io/upload_images/1419306-10c66581e101dd7c.GIF?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
+
