@@ -5,7 +5,7 @@
 ![](http://upload-images.jianshu.io/upload_images/1419306-35085698a029f636.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
 
 * Demo效果图：
-![](http://upload-images.jianshu.io/upload_images/1419306-b2a34dc793e1b14e.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
+![](http://upload-images.jianshu.io/upload_images/1419306-34ac7559be2cc9b4.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
  
 
 * 简书文章地址：http://www.jianshu.com/p/698bf9a60e65
